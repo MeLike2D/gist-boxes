@@ -14,5 +14,5 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: LolWastedJS
+          GH_USERNAME: MeLike2D
           GIST_ID: 3f06d4551e1ac309f154246d987be8fa
